@@ -1,0 +1,11 @@
+{
+  "name": "hasura-postgres-remix",
+  "version": "1.0.0",
+  "description": "A demo app showing some capabilities of the remix/hasura/postgresql combination",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
