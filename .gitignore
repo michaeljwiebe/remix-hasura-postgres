@@ -2,6 +2,11 @@
 .env
 
 app/node_modules
+node_modules
+
+build
 
 #IDE
 .idea
+
+.cache/**
